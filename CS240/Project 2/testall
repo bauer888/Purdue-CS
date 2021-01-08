@@ -1,0 +1,38 @@
+#!/bin/bash
+
+{
+cd task1
+./test
+cd ../task2
+./test
+cd task3
+./test
+cd task4
+./test
+cd task5
+./test
+cd task6
+./test
+} &> /dev/null
+
+cd ..
+cat task1/total.out
+cat task2/total.out
+cat task3/total.out
+cat task4/total.out
+cat task5/total.out
+cat task6/total.out
+
+cd task1
+make clean
+cd ../task2
+make clean
+cd ../task3
+make clean
+cd ../task4
+make clean
+cd ../task5
+make clean
+cd ../task6
+make clean
+

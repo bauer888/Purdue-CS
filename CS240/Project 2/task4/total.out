@@ -1,0 +1,12 @@
+
+
+-------------------------------------------------
+CS240: HW 2. bauer88   
+Fri Oct 11 11:05:44 EDT 2019
+-------------------------------------------------
+extract_image ../images/Lenna.png 0 0 200 300  : 0   of 5  
+extract_image ../images/Lenna.png 200 150 100 100  : 0   of 5  
+extract_image ../images/duck.png 50 50 100 200  : 0   of 5  
+-------------------------------------------------
+CS240: HW 2. bauer88 Fri Oct 11 11:05:44 EDT 2019  Total:  0 of 15
+

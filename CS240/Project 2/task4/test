@@ -1,0 +1,97 @@
+#!/bin/bash
+
+(make clean > /dev/null; make) || exit 1
+
+total=0
+totalmax=0
+
+rm -f total.txt *.out
+
+# create a temporary workspace
+
+# Output fail information
+# Only call it inside runtest, after variables are assigned
+function testfail {
+  echo "*****Test Failed*****";
+  echo $1
+  printf "%-36s: %-3d of %-3d\n" "$descr " 0 $grade >> total.txt
+  echo
+  rm .1.png
+}
+
+# Test driver
+function runtest {
+  prog=$1
+  args=$2
+  args2=$3
+  args3=$4
+  args4=$5
+  args5=$6
+  testinput=$7
+  grade=$8
+
+  totalmax=`expr $totalmax + $grade`;
+  inputdescr=
+  if [ "$testinput" != "none" ]; then
+      inputdescr=" < $testinput"
+  fi
+  descr="$prog $args $args2 $args3 $args4 $args5 $inputdescr"
+
+  echo "======= $descr ==========="
+  
+  file="${args##*/}"
+  filename="${file%.*}"
+  
+  #Run original program
+  ./$prog.org $args $args2 $args3 $args4 $args5 > /dev/null
+  orgerrorcode=$?
+  mv ${filename}_extracted.png .1.png
+
+  #Run tested program
+  timeout 1s ./$prog $args $args2 $args3 $args4 $args5 > /dev/null
+  errorcode=$?
+  
+  if [ $errorcode -ne $orgerrorcode ]; then
+      echo "*****Test Failed*****";
+      echo Error codes do not match
+      printf "%-36s: %-3d of %-3d\n" "$descr " 0 $grade >> total.txt
+      echo
+      return
+  else
+      if [ ! -f ${filename}_extracted.png ]; then
+        testfail "File ${filename}_extracted.png not exists!"
+		return
+      fi
+  fi
+
+  ../compare ${filename}_extracted.png .1.png
+  if [ $? -ne 0 ]; then
+      testfail "Incorrect file ${filename}_extracted.png!"
+	  return
+  fi
+  
+  echo Test passed...;
+  printf "%-36s: %-3d of %-3d\n" "$descr " $grade $grade >> total.txt
+  total=`expr $total + $grade`;
+  echo
+  
+  rm .1.png
+}
+
+# List of tests running
+runtest extract_image "../images/Lenna.png" 0 0 200 300 none 5
+runtest extract_image "../images/Lenna.png" 200 150 100 100 none 5
+runtest extract_image "../images/duck.png" 50 50 100 200 none 5
+
+echo > total.out
+echo >> total.out
+echo   "-------------------------------------------------" >> total.out
+echo   "CS240: HW 2. $USER   " >> total.out
+date >> total.out
+echo   "-------------------------------------------------" >> total.out
+cat total.txt >> total.out >> total.out
+echo   "-------------------------------------------------" >> total.out
+echo   "CS240: HW 2. $USER" `date` " Total: " $total of $totalmax >> total.out
+echo >> total.out
+
+cat total.out
