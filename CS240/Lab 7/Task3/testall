@@ -1,0 +1,13 @@
+make
+
+echo "Start Tests"
+echo "See test_lngchr.c for more information about each test" 
+echo "--------"
+./lngchr test1
+echo "--------"
+./lngchr test2
+echo "--------"
+./lngchr test3
+echo "--------"
+
+echo "End Tests" 

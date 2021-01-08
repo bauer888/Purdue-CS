@@ -1,0 +1,12 @@
+make
+
+./find_pos test1
+echo "--------"
+./find_pos test2
+echo "--------"
+./find_pos test3
+echo "--------"
+./find_pos test4
+echo "--------"
+./find_pos test5
+

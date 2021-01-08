@@ -1,0 +1,13 @@
+make
+
+echo "Start Tests"
+echo "See test_memcpy.c for more information about each test" 
+echo "--------"
+./memcpy test1
+echo "--------"
+./memcpy test2
+echo "--------"
+./memcpy test3
+echo "--------"
+
+echo "End Tests" 

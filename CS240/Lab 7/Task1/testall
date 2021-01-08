@@ -1,0 +1,16 @@
+make
+
+echo "Start Tests"
+echo "See test_memcmp.c for more information about each test" 
+echo "--------"
+./memcmp test1
+echo "--------"
+./memcmp test2
+echo "--------"
+./memcmp test3
+echo "--------"
+./memcmp test4
+echo "--------"
+./memcmp test5
+echo "--------"
+echo "End Tests" 
