@@ -1,0 +1,24 @@
+Working Features:
+	1A: Lex and Yacc complex commands
+	1B: Executing Commands
+		1B.1: Simplle command process creation and execution
+		1B.2: File redirection
+		1B.3: Pipes
+		1B.4: isatty()
+	2.1: Ctrl-C
+	2.2: Zombie elimination
+	2.3: Exit
+	2.4: Quotes
+	2.5: Escaping
+	2.6: Builtin functions
+	2.7: Creating a default source file
+	2.8: Subshells
+	3.1 Environment variable expansion: "${?}"
+	3.2 Tilde expansion
+	3.3 Wildcarding
+	3.4 Edit Mode
+	3.7 Variable prompt (for "PROMPT")
+
+Not Working Features:
+	3.5 History (up and down arrow keys)
+	

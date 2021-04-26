@@ -1,0 +1,6145 @@
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 8f9095c] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 67 insertions(+), 4 deletions(-)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 0e66004] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master e3a63d9] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 25 insertions(+), 4 deletions(-)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 3c842f3] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 8fb1824] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 34 insertions(+), 4 deletions(-)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 16cec33] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+Your branch is up to date with 'origin/master'.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	.myMalloc.h.swp
+	examples/composite_ex
+	examples/constructor_ex
+	tests/test_all_lists
+	tests/test_coalesce_chunk_coalesce
+	tests/test_coalesce_chunk_insert
+	tests/test_corrupted_canary
+	tests/test_double_free
+	tests/test_exact
+	tests/test_free_both
+	tests/test_free_even
+	tests/test_free_insert
+	tests/test_free_left
+	tests/test_free_null
+	tests/test_free_odd
+	tests/test_free_right
+	tests/test_insert_chunk
+	tests/test_large
+	tests/test_locks
+	tests/test_malloc_large
+	tests/test_malloc_too_large
+	tests/test_malloc_zero
+	tests/test_multi_malloc
+	tests/test_out_of_ram
+	tests/test_random
+	tests/test_random_sizes
+	tests/test_simple0
+	tests/test_simple1
+	tests/test_simple2
+	tests/test_simple3
+	tests/test_simple4
+	tests/test_simple5
+	tests/test_simple6
+	tests/test_split
+	tests/test_verify
+	tests/test_very_large
+
+nothing added to commit but untracked files present
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master a4341be] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 2be715a] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 3192cc9] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 98dbe8c] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 1a639df] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 11d0d23] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 8a5735d] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master f0e8cba] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@hopper23.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 4 insertions(+), 4 deletions(-)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 073bc78] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@hopper23.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 4 insertions(+), 1 deletion(-)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master f5da18e] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@hopper23.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master bfd0299] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@hopper23.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master a8afb80] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@hopper23.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 8b80c50] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 5 insertions(+), 5 deletions(-)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 2d3ff49] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master d2a20c7] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master a7b46ed] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 4 insertions(+), 4 deletions(-)
+Your branch is up to date with 'origin/master'.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+	examples/composite_ex
+	examples/constructor_ex
+	myMalloc.c.save
+	tests/test_all_lists
+	tests/test_coalesce_chunk_coalesce
+	tests/test_coalesce_chunk_insert
+	tests/test_corrupted_canary
+	tests/test_double_free
+	tests/test_exact
+	tests/test_free_both
+	tests/test_free_even
+	tests/test_free_insert
+	tests/test_free_left
+	tests/test_free_null
+	tests/test_free_odd
+	tests/test_free_right
+	tests/test_insert_chunk
+	tests/test_large
+	tests/test_locks
+	tests/test_malloc_large
+	tests/test_malloc_too_large
+	tests/test_malloc_zero
+	tests/test_multi_malloc
+	tests/test_out_of_ram
+	tests/test_random
+	tests/test_random_sizes
+	tests/test_simple0
+	tests/test_simple1
+	tests/test_simple2
+	tests/test_simple3
+	tests/test_simple4
+	tests/test_simple5
+	tests/test_simple6
+	tests/test_split
+	tests/test_verify
+	tests/test_very_large
+
+nothing added to commit but untracked files present
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master f0add17] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master ecf95a4] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 4302479] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 4 insertions(+), 4 deletions(-)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 69b6976] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master d8a6868] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 6 insertions(+), 6 deletions(-)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master c6eda79] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 764b5c0] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 4 insertions(+), 2 deletions(-)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 15b53e7] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 4 insertions(+), 4 deletions(-)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 6af30f2] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 3 insertions(+), 2 deletions(-)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master b8ea47f] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 4 insertions(+), 4 deletions(-)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master bb7c4ec] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 8 insertions(+), 8 deletions(-)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 4e10627] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 5 insertions(+), 5 deletions(-)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master fb4e818] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 13c1e2f] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master f3f09ab] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 74d0598] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 1 insertion(+), 3 deletions(-)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 40e71e4] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 6 insertions(+), 6 deletions(-)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master de3076f] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 4 insertions(+), 4 deletions(-)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master f9e617a] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@borg07.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 14 insertions(+), 14 deletions(-)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master a7dd43e] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@borg07.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 4 insertions(+), 4 deletions(-)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 509d730] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@borg07.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 10 insertions(+), 10 deletions(-)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 5ccfb7a] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@borg07.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 29 insertions(+), 9 deletions(-)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master cecf28a] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@borg07.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 23 insertions(+), 10 deletions(-)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master c42eb10] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@borg07.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 3 insertions(+), 3 deletions(-)
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 8664a76] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@borg07.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 9 insertions(+), 9 deletions(-)
+Your branch is up to date with 'origin/master'.
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Untracked files:
+	.local.git.out
+
+nothing added to commit but untracked files present
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master edd68d6] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@hopper19.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 8 insertions(+)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple0
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master 13316bd] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@hopper19.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 35 files changed, 54 insertions(+)
+M	.local.git.out
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple0
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master 854ddcd] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@hopper19.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 34 files changed, 50 insertions(+)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 3253258] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@hopper19.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 19 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple0
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master 66e938b] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@hopper19.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 35 files changed, 61 insertions(+), 5 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple0
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master 82731a0] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@hopper19.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 35 files changed, 52 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple0
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master e2eec3d] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@hopper19.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 35 files changed, 52 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple0
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master ad12ef2] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 35 files changed, 82 insertions(+), 14 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+D	tests/test_simple0
+Your branch is up to date with 'origin/master'.
+[master 56df962] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 3 files changed, 22 insertions(+), 3 deletions(-)
+ delete mode 100755 tests/test_simple0
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 57d4fd9] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 21 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+M	tests/Makefile
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master 1cba8d3] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 35 files changed, 112 insertions(+), 16 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master 25b3618] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 34 files changed, 52 insertions(+), 2 deletions(-)
+ rewrite tests/test_all_lists (78%)
+ rewrite tests/test_coalesce_chunk_coalesce (72%)
+ rewrite tests/test_coalesce_chunk_insert (71%)
+ rewrite tests/test_corrupted_canary (78%)
+ rewrite tests/test_double_free (78%)
+ rewrite tests/test_exact (72%)
+ rewrite tests/test_free_both (78%)
+ rewrite tests/test_free_even (77%)
+ rewrite tests/test_free_insert (77%)
+ rewrite tests/test_free_left (78%)
+ rewrite tests/test_free_null (73%)
+ rewrite tests/test_free_odd (77%)
+ rewrite tests/test_free_right (79%)
+ rewrite tests/test_insert_chunk (71%)
+ rewrite tests/test_large (78%)
+ rewrite tests/test_locks (78%)
+ rewrite tests/test_malloc_large (78%)
+ rewrite tests/test_malloc_too_large (74%)
+ rewrite tests/test_malloc_zero (74%)
+ rewrite tests/test_multi_malloc (78%)
+ rewrite tests/test_out_of_ram (72%)
+ rewrite tests/test_random (70%)
+ rewrite tests/test_simple1 (71%)
+ rewrite tests/test_simple2 (72%)
+ rewrite tests/test_simple3 (73%)
+ rewrite tests/test_simple4 (74%)
+ rewrite tests/test_simple5 (73%)
+ rewrite tests/test_simple6 (73%)
+ rewrite tests/test_split (77%)
+ rewrite tests/test_verify (77%)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master ac35229] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 34 files changed, 83 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master f2a5eeb] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 34 files changed, 52 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master 166fbc8] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 34 files changed, 51 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master cb724ca] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 34 files changed, 51 insertions(+)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master ac00126] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 34 files changed, 51 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master 49a8f54] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 34 files changed, 56 insertions(+), 6 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master 9c3be38] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 34 files changed, 54 insertions(+)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master 4a2a265] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 34 files changed, 52 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master b86adec] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 34 files changed, 59 insertions(+)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master 9448a18] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 34 files changed, 50 insertions(+), 9 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master 8ea8bc1] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 34 files changed, 52 insertions(+)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master a0d7d08] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 34 files changed, 52 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master c72e099] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 19 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master 010c5b0] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 34 files changed, 51 insertions(+), 1 deletion(-)
+ rewrite tests/test_free_both (60%)
+ rewrite tests/test_free_even (61%)
+ rewrite tests/test_free_insert (63%)
+ rewrite tests/test_large (65%)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master 5ce0232] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 34 files changed, 59 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master df65d11] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 34 files changed, 55 insertions(+), 5 deletions(-)
+ rewrite tests/test_corrupted_canary (60%)
+ rewrite tests/test_free_both (60%)
+ rewrite tests/test_free_even (63%)
+ rewrite tests/test_free_insert (60%)
+ rewrite tests/test_large (68%)
+ rewrite tests/test_locks (60%)
+ rewrite tests/test_verify (60%)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master 975903e] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 34 files changed, 58 insertions(+), 1 deletion(-)
+ rewrite tests/test_corrupted_canary (60%)
+ rewrite tests/test_free_both (60%)
+ rewrite tests/test_free_insert (60%)
+ rewrite tests/test_large (68%)
+ rewrite tests/test_locks (60%)
+ rewrite tests/test_verify (60%)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master 9f2802c] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 34 files changed, 58 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master 4e20795] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 34 files changed, 52 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master 91456fa] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 34 files changed, 52 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master 3a7bd15] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 34 files changed, 55 insertions(+), 3 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master a45cd61] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 34 files changed, 51 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master 1f5465c] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 34 files changed, 52 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master 55207d5] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 34 files changed, 51 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master b172714] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 34 files changed, 52 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master f2dfb6e] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 34 files changed, 51 insertions(+)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master e78700a] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 34 files changed, 51 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master b6cf420] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 19 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master 7e0d8db] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 34 files changed, 53 insertions(+), 3 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master c81d2cc] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 34 files changed, 52 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master be366b5] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 34 files changed, 52 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master de54a3e] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 34 files changed, 51 insertions(+)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master 45b6fa7] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 34 files changed, 51 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master 8ead9d7] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 34 files changed, 71 insertions(+), 7 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master c3aea5d] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 19 insertions(+)
+M	.local.git.out
+Your branch is up to date with 'origin/master'.
+[master 3ed306b] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 17 insertions(+)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 7adef54] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 19 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master 24c00a3] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 34 files changed, 52 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master ac52ba9] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 34 files changed, 52 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master 0169561] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 34 files changed, 54 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master 8724348] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 34 files changed, 52 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master 41120ce] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 34 files changed, 57 insertions(+), 7 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master fccb41e] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 34 files changed, 52 insertions(+)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master b837ded] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 34 files changed, 52 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master 7f9533c] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 34 files changed, 52 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master 3ce5ab9] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 34 files changed, 55 insertions(+), 5 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master 16496b6] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 34 files changed, 53 insertions(+), 3 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master bfe7f86] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 34 files changed, 56 insertions(+), 6 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 8933fb7] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 19 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master ff6e602] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 34 files changed, 56 insertions(+), 6 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master 4145d2c] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 34 files changed, 58 insertions(+), 6 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master f7d75c4] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 34 files changed, 57 insertions(+), 7 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master 3c97d32] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 34 files changed, 54 insertions(+), 4 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master f6e2292] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 34 files changed, 54 insertions(+), 4 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master 89adb77] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 34 files changed, 53 insertions(+)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master ecdc58f] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 34 files changed, 55 insertions(+)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master 6839385] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 34 files changed, 51 insertions(+), 1 deletion(-)
+ rewrite tests/test_corrupted_canary (80%)
+ rewrite tests/test_double_free (79%)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_malloc_large
+M	tests/test_multi_malloc
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master 04de5ae] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 26 files changed, 45 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master 85f903b] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 34 files changed, 51 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master c1e8a66] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 34 files changed, 51 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master 8f41029] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 34 files changed, 51 insertions(+)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master b4f4290] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 34 files changed, 70 insertions(+), 20 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master b094732] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 19 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master 5d88c9c] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 34 files changed, 55 insertions(+), 5 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master 446d785] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 34 files changed, 52 insertions(+), 11 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master d2ef62b] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 34 files changed, 51 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master c014051] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 34 files changed, 60 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master c57b632] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 34 files changed, 50 insertions(+), 4 deletions(-)
+M	.local.git.out
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master e1a250c] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 33 files changed, 49 insertions(+)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master d4b6f59] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 20 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master caf40df] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 34 files changed, 55 insertions(+), 5 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master 609cff8] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 34 files changed, 57 insertions(+), 6 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master 75c4351] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 34 files changed, 75 insertions(+), 3 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master 42d12b6] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 34 files changed, 52 insertions(+), 2 deletions(-)
+ rewrite tests/test_corrupted_canary (64%)
+ rewrite tests/test_free_insert (71%)
+ rewrite tests/test_free_null (62%)
+ rewrite tests/test_free_right (60%)
+ rewrite tests/test_large (60%)
+ rewrite tests/test_multi_malloc (62%)
+ rewrite tests/test_verify (63%)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 7e662a7] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 25 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master 2280a91] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 34 files changed, 62 insertions(+), 5 deletions(-)
+ rewrite tests/test_corrupted_canary (60%)
+ rewrite tests/test_free_both (61%)
+ rewrite tests/test_free_even (63%)
+ rewrite tests/test_free_insert (70%)
+ rewrite tests/test_free_odd (60%)
+ rewrite tests/test_large (60%)
+ rewrite tests/test_locks (61%)
+ rewrite tests/test_simple3 (62%)
+M	.local.git.out
+Your branch is up to date with 'origin/master'.
+[master ba211e0] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 1 file changed, 25 insertions(+)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 27bb03e] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 19 insertions(+)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master 918a703] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 34 files changed, 54 insertions(+), 4 deletions(-)
+ rewrite tests/test_all_lists (60%)
+ rewrite tests/test_corrupted_canary (67%)
+ rewrite tests/test_free_both (61%)
+ rewrite tests/test_free_even (64%)
+ rewrite tests/test_free_insert (60%)
+ rewrite tests/test_free_left (60%)
+ rewrite tests/test_free_odd (64%)
+ rewrite tests/test_free_right (60%)
+ rewrite tests/test_large (60%)
+ rewrite tests/test_locks (61%)
+ rewrite tests/test_malloc_large (61%)
+ rewrite tests/test_multi_malloc (60%)
+ rewrite tests/test_simple3 (62%)
+ rewrite tests/test_split (60%)
+ rewrite tests/test_verify (61%)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master c3609c7] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 34 files changed, 95 insertions(+), 8 deletions(-)
+ rewrite tests/test_all_lists (60%)
+ rewrite tests/test_corrupted_canary (67%)
+ rewrite tests/test_double_free (62%)
+ rewrite tests/test_free_both (62%)
+ rewrite tests/test_free_even (62%)
+ rewrite tests/test_free_insert (60%)
+ rewrite tests/test_free_left (61%)
+ rewrite tests/test_free_odd (65%)
+ rewrite tests/test_free_right (60%)
+ rewrite tests/test_large (60%)
+ rewrite tests/test_locks (61%)
+ rewrite tests/test_malloc_large (61%)
+ rewrite tests/test_multi_malloc (60%)
+ rewrite tests/test_simple3 (66%)
+ rewrite tests/test_split (60%)
+ rewrite tests/test_verify (61%)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master df370d5] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 34 files changed, 67 insertions(+)
+ rewrite tests/test_double_free (60%)
+ rewrite tests/test_free_null (61%)
+ rewrite tests/test_multi_malloc (61%)
+ rewrite tests/test_simple3 (64%)
+ rewrite tests/test_split (62%)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master c09ac9a] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 34 files changed, 57 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master 4d84c5e] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 34 files changed, 51 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master 33b1fbd] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 34 files changed, 53 insertions(+), 3 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master 7bb067a] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 34 files changed, 51 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master 2484d73] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 34 files changed, 52 insertions(+), 2 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master 3ca58b4] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 34 files changed, 56 insertions(+), 6 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master 99d5482] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 19 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master 9192a79] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 34 files changed, 52 insertions(+)
+ rewrite tests/test_free_even (61%)
+ rewrite tests/test_large (61%)
+ rewrite tests/test_locks (61%)
+ rewrite tests/test_multi_malloc (62%)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master 1000a99] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 34 files changed, 56 insertions(+)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master 01205bb] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 34 files changed, 62 insertions(+), 11 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master 9339b93] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 34 files changed, 51 insertions(+), 2 deletions(-)
+M	.local.git.out
+D	examples/composite_ex
+D	examples/constructor_ex
+D	tests/test_all_lists
+D	tests/test_coalesce_chunk_coalesce
+D	tests/test_coalesce_chunk_insert
+D	tests/test_corrupted_canary
+D	tests/test_double_free
+D	tests/test_exact
+D	tests/test_free_both
+D	tests/test_free_even
+D	tests/test_free_insert
+D	tests/test_free_left
+D	tests/test_free_null
+D	tests/test_free_odd
+D	tests/test_free_right
+D	tests/test_insert_chunk
+D	tests/test_large
+D	tests/test_locks
+D	tests/test_malloc_large
+D	tests/test_malloc_too_large
+D	tests/test_malloc_zero
+D	tests/test_multi_malloc
+D	tests/test_out_of_ram
+D	tests/test_random
+D	tests/test_random_sizes
+D	tests/test_simple1
+D	tests/test_simple2
+D	tests/test_simple3
+D	tests/test_simple4
+D	tests/test_simple5
+D	tests/test_simple6
+D	tests/test_split
+D	tests/test_verify
+D	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master 965fc8c] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 35 files changed, 51 insertions(+)
+ delete mode 100755 examples/composite_ex
+ delete mode 100755 examples/constructor_ex
+ delete mode 100755 tests/test_all_lists
+ delete mode 100755 tests/test_coalesce_chunk_coalesce
+ delete mode 100755 tests/test_coalesce_chunk_insert
+ delete mode 100755 tests/test_corrupted_canary
+ delete mode 100755 tests/test_double_free
+ delete mode 100755 tests/test_exact
+ delete mode 100755 tests/test_free_both
+ delete mode 100755 tests/test_free_even
+ delete mode 100755 tests/test_free_insert
+ delete mode 100755 tests/test_free_left
+ delete mode 100755 tests/test_free_null
+ delete mode 100755 tests/test_free_odd
+ delete mode 100755 tests/test_free_right
+ delete mode 100755 tests/test_insert_chunk
+ delete mode 100755 tests/test_large
+ delete mode 100755 tests/test_locks
+ delete mode 100755 tests/test_malloc_large
+ delete mode 100755 tests/test_malloc_too_large
+ delete mode 100755 tests/test_malloc_zero
+ delete mode 100755 tests/test_multi_malloc
+ delete mode 100755 tests/test_out_of_ram
+ delete mode 100755 tests/test_random
+ delete mode 100755 tests/test_random_sizes
+ delete mode 100755 tests/test_simple1
+ delete mode 100755 tests/test_simple2
+ delete mode 100755 tests/test_simple3
+ delete mode 100755 tests/test_simple4
+ delete mode 100755 tests/test_simple5
+ delete mode 100755 tests/test_simple6
+ delete mode 100755 tests/test_split
+ delete mode 100755 tests/test_verify
+ delete mode 100755 tests/test_very_large
+M	myMalloc.c
+Your branch is up to date with 'origin/master'.
+[master a6417d1] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 2 files changed, 4 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple0
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master 0c2190c] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 35 files changed, 52 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple0
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master 510c713] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 35 files changed, 62 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple0
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master cbe7da2] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 35 files changed, 56 insertions(+), 5 deletions(-)
+ rewrite tests/test_split (63%)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple0
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master a5dc53a] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 35 files changed, 93 insertions(+), 162 deletions(-)
+ rewrite tests/test_simple2 (61%)
+ rewrite tests/test_split (62%)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple0
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master 4d08e5f] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 35 files changed, 55 insertions(+), 14 deletions(-)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple0
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master af16fe7] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 35 files changed, 52 insertions(+), 1 deletion(-)
+M	.local.git.out
+M	myMalloc.c
+M	tests/test_all_lists
+M	tests/test_coalesce_chunk_coalesce
+M	tests/test_coalesce_chunk_insert
+M	tests/test_corrupted_canary
+M	tests/test_double_free
+M	tests/test_exact
+M	tests/test_free_both
+M	tests/test_free_even
+M	tests/test_free_insert
+M	tests/test_free_left
+M	tests/test_free_null
+M	tests/test_free_odd
+M	tests/test_free_right
+M	tests/test_insert_chunk
+M	tests/test_large
+M	tests/test_locks
+M	tests/test_malloc_large
+M	tests/test_malloc_too_large
+M	tests/test_malloc_zero
+M	tests/test_multi_malloc
+M	tests/test_out_of_ram
+M	tests/test_random
+M	tests/test_random_sizes
+M	tests/test_simple0
+M	tests/test_simple1
+M	tests/test_simple2
+M	tests/test_simple3
+M	tests/test_simple4
+M	tests/test_simple5
+M	tests/test_simple6
+M	tests/test_split
+M	tests/test_verify
+M	tests/test_very_large
+Your branch is up to date with 'origin/master'.
+[master b14c26e] Commit
+ Committer: Jackson Nicholas Bauer <bauer88@data.cs.purdue.edu>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly. Run the
+following command and follow the instructions in your editor to edit
+your configuration file:
+
+    git config --global --edit
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 35 files changed, 77 insertions(+), 24 deletions(-)

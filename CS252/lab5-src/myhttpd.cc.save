@@ -1,0 +1,112 @@
+#include <sys/types.h>
+#include <sys/socket.h>
+#include <netinet/in.h>
+#include <netdb.h>
+#include <stdlib.h>
+#include <string.h>
+#include <stdio.h>
+#include <time.h>
+#include <unistd.h>
+
+void httpRequest(int socket);
+
+int queueLength = 100;
+
+int main( int argc, char **argv) {
+
+	//print usage: will define later
+	if (argc < 2) {
+//		fprintf(stderr, "%s", usage);
+	}
+
+	//get port
+	int port = atoi(argv[1]);
+
+	//set ip and port
+	struct sockaddr_in serverIP;
+	memset(&serverIP, 0, sizeof(serverIP));
+	serverIP.sin_family = AF_INET;
+	serverIP.sin_addr.s_addr = INADDR_ANY;
+	serverIP.sin_port = htons((u_short) port);
+
+	int masterSocket = socket(PF_INET, SOCK_STREAM, 0);
+	if (masterSocket < 0) {
+		perror("socket");
+		exit(-1);
+	}
+
+	//set socket options to reuse port. otherwise have to wait before reusing port number
+	int optval = 1;
+	int err = setsockopt(masterSocket, SOL_SOCKET, SO_REUSEADDR, (char*) &optval, sizeof(int));
+
+	//bind the socket to the ip and port
+	int error = bind(masterSocket, (struct sockaddr*) &serverIP, sizeof(serverIP));
+	if (error) {
+		perror("bind");
+		exit(-1);
+	}
+
+	//put socke tin listening mode and set the
+	//size of the queue of unprocessed connections
+	error = listen(masterSocket, queueLength);
+	if (error) {
+		perror("listen");
+		exit(-1);
+	}
+
+	//accept incoming connections
+	while (1) {
+		struct sockaddr_in clientIP;
+		int length = sizeof(clientIP);
+		int slaveSocket = accept(masterSocket, (struct sockaddr *) &clientIP, (socklen_t*) &length);
+
+		if (slaveSocket < 0) {
+			perror("accept");
+			exit(-1);
+		}
+
+		//process request
+		httpRequest(slaveSocket);
+
+		//close socket
+		close(slaveSocket);
+	}
+}
+
+void httpRequest(int socket) {
+
+	int maxRequest = 10*1024;
+	char request[maxRequest + 1];
+	int length = 0;
+	int n = 0;
+	int goGet = 0;
+
+	char newChar;
+
+	char lastChar[3];
+	lastChar[0] = 0;
+	lastChar[1] = 0;
+	lastChar[2] = 0;
+
+	while (queueLength < maxRequest && (n = read(socket, &newChar, sizeof(newChar))) > 0) {
+
+		fprintf(stderr, "<%d,%c>", newChar, newChar);
+
+		if (lastChar[2] == '\015' && lastChar[1] == '\012' && lastChar[0] == '\015' && newChar == '\012') {
+			length--;
+			break;
+		}
+		request[length] = newChar;
+		length++;
+		//lastChar = newChar;
+		lastChar[2] = lastChar[1];
+		lastChar[1] = lastChar[0];
+		lastChar[0] = newChar;
+	}
+
+	request[length] = '\0';
+	printf("request=%s\n", request);
+
+	const char* newline = "\n";
+	close(socket);
+}
