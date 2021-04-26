@@ -1,0 +1,69 @@
+NAME: Little Walnut Creek Branch
+PHONE: 512-974-9860
+
+NAME: Carver Branch
+PHONE: 512-974-1010
+
+NAME: North Village Branch
+PHONE: 512-974-9960
+
+NAME: Ruiz Branch
+PHONE: 512-974-7500
+
+NAME: St. John Branch
+PHONE: 512-974-7570
+
+NAME: Pleasant Hill Branch
+PHONE: 512-974-3940
+
+NAME: Faulk Central Library
+PHONE: 512-974-7400
+
+NAME: Old Quarry Branch
+PHONE: 512-974-8860
+
+NAME: University Hills Branch
+PHONE: 512-974-9940
+
+NAME: Austin History Center
+PHONE: 512-974-7480
+
+NAME: Windsor Park Branch
+PHONE: 512-974-9840
+
+NAME: Terrazas Branch
+PHONE: 512-974-3625
+
+NAME: Southeast Branch
+PHONE: 512-974-8840
+
+NAME: Howson Branch
+PHONE: 512-974-8800
+
+NAME: Willie Mae Kirk Branch
+PHONE: 512-974-9920
+
+NAME: Hampton Branch at Oak Hill
+PHONE: 512-974-9900
+
+NAME: Cepeda Branch
+PHONE: 512-974-7372
+
+NAME: Recycled Reads Bookstore
+PHONE: 512-974-7460
+
+NAME: Manchaca Road Branch
+PHONE: 512-974-8700
+
+NAME: Yarborough Branch
+PHONE: 512-974-8820
+
+NAME: Spicewood Springs Branch
+PHONE: 512-974-3800
+
+NAME: Twin Oaks Branch
+PHONE: 512-974-9980
+
+NAME: Milwood Branch
+PHONE: 512-974-9880
+
