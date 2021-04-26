@@ -1,0 +1,27 @@
+Step 3: When the program thr1 is run, it prints out "A", "B", and "C" in varying/random orders i.e. "AAABBCCCAACCCBBBCAAA" and so on.
+Step 5: The program thr2 outputs only "C" infinitely many times in a row because printC, which contains an infinite loop, is called before the two threads are created. Since printC contains an infinite loop, the two threads will
+	never be created.    
+
+Part 3:
+	
+					System Time	User Time      Real time
+
+pthread_mutex(count)                     2.259		 2.823		 2.551
+spin_lock(count_spin with thr_yield)	 0.358		 0.871		 0.608
+spin_lock(count_spin without thr_yield)  0.000		 4.879		 2.338
+
+1. If there is no thr_yield, the while loop in spin_lock will continuously run and waste the allotted user time given to that process. If thr_yield is called, it stops the while loop from running and yields the rest of its
+   allotted CPU time to another thread.
+2. If the thread is locked, its put in waiting state. A spin lock keeps the thread in a running state. Switching from running state to waiting state requires the CPU to be in kernel mode. Since count_spin utilizes a spin lock, 
+   it will spend less time in kernel mode because the thread will be kept in a running state.     
+
+Part 6: 
+
+Little Endian Bytes: \xef\xbe\xad\xde
+Code: $(python -c 'print 15 * "A" + \xef\xbe\xad\xde"')
+		  Originally, I had something similar to the above code, but not in python. I changed it because I couldn't figure out the exact syntax without using python.
+How/Why it works: Since the length of buf is 15, printing out 15 'A' characters (print 15 * "A") will fill up buf. 
+		  By also printing hex after filling up buf with A's, a buffer overflow occurs which will overwrite the memory in the stack that corresponds to the variable set_me. 
+		  Instead of being equal to 0, set_me is now equal to the hex values at the end of the print statement. Since little endian systems store bits in reverse, the correct
+		  hex values to set set_me equal to are the bits of 0xdeadbeef in reverse (xef, xbe, xad, xde) which, in turn, results in the execution of the shell.  
+	 

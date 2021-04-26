@@ -1,0 +1,46 @@
+/*  main.c  - main */
+
+#include <xinu.h>
+
+void testy() {
+	kprintf("Loop");
+}
+
+process	main(void)
+{
+    
+    	kprintf("\nHello World!\n");
+	//kprintf("This is OK: %d\n", OK);
+//	asm("int $6");
+//	kprintf("show up");
+	//sleepms(900);
+	//kprintf("%d", xclockticks);
+	//int x = 0;
+	//asm("movl %ebx, %cr1");
+	//x = 3;
+	//kprintf("value of x: %d\n", x);
+	uint32 x = xresume(create((void*) main, 8192, 50, "stuff", 0, NULL));
+	kprintf("show up pussy: %d\n", x);
+/*    	kprintf("\nI'm the first XINU app and running function main() in system/main.c.\n");
+  	kprintf("\nI was created by nulluser() in system/initialize.c using create().\n");
+    	kprintf("\nMy creator will turn itself into the do-nothing null process.\n");
+    	kprintf("\nI will create a second XINU app that runs shell() in shell/shell.c as an example.\n");
+    	kprintf("\nYou can do something else, or do nothing; it's completely up to you.\n");
+    	kprintf("\n...creating a shell\n");
+*/
+	/* Run the Xinu shell */
+
+//	recvclr();
+//	resume(create(shell, 8192, 50, "shell", 1, CONSOLE));
+
+	/* Wait for shell to exit and recreate it */
+
+/*	while (TRUE) {
+		receive();
+		sleepms(200);
+		kprintf("\n\nMain process recreating shell\n\n");
+		resume(create(shell, 4096, 20, "shell", 1, CONSOLE));
+	}*/ 
+	return OK;
+    
+}
